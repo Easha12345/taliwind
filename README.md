@@ -1,8 +1,10 @@
 ## tailwind
+
 ## html
+
 this is a amazing tailwind website
 
 
 
 
-live link:https://github.com/Easha12345/taliwind
+live link: https://easha12345.github.io/taliwind/
